@@ -17,3 +17,4 @@ echo 'hardware/xiaomi'
 rm -rf hardware/xiaomi
 git clone -b 14 https://github.com/kamleshhv/android_hardware_xiaomi.git hardware/xiaomi
 
+rm -rf hardware/xiaomi/megvii
